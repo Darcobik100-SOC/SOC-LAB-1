@@ -1,11 +1,9 @@
 
----
-
 ## 3️⃣ Estructura recomendada para un README de SOC LAB
 
 Para un laboratorio SOC (Elastic, SIEM, ciberseguridad), esta estructura es ideal y profesional:
 
-```md
+
 # SOC-LAB-1
 
 Laboratorio de Security Operations Center (SOC) enfocado en la detección, monitoreo y análisis de eventos de seguridad utilizando Elastic SIEM.
@@ -30,9 +28,8 @@ Demostrar conocimientos prácticos en:
 - Análisis básico de incidentes
 
 ## 🚀 Instalación
-```bash
-docker-compose up -d
 
+##Pfsense
 vamos a empezar con el tema de las maquinas Virtuales, iniciemos con:
 #PFsense
 hay quue descargarlo del sitio web oficial, para esto les pasare el Link oficial,
