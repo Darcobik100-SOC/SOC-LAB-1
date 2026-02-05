@@ -410,3 +410,4 @@ Dentro de la parte **práctica**, se puede explorar el sistema Elastic para cono
 <br/>
 <br/>
 Con un sistema SIEM como Elastic se pueden realizar gran cantidad de acciones con las cuales se puede aprender con cada prueba que se hace. Este proyecto no es una solución definitiva, sino un entorno para practicar y mejorar en el proceso. Si llegaste hasta acá, o si te sirve de inspiración para construir tu propio laboratorio SOC, significa que valió la pena, ya que lo que me mueve es la curiosidad constante y las ganas de seguir aprendiendo.
+
