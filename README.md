@@ -47,3 +47,7 @@ Dentro de VirtualBox utilizaremos 2 tipos de redes:
 * Y la red LAN que viene por defecto en VirtualBox.
 
 Todo esto lo tome como base del del repositorio creado por .[Berkeross](https://github.com/Berkeross/Lab-SOC-Elastic)
+
+---
+
+##Identificar FP y PF usando Atomic Red Team y Elastic
