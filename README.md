@@ -2,6 +2,7 @@
 ## 3️⃣ Estructura recomendada para un README de SOC LAB
 
 Para un laboratorio SOC (Elastic, SIEM, ciberseguridad), esta estructura es ideal y profesional:
+Le implementare un nuevo plus, servicios de aws 
 
 
 # SOC-LAB-1
