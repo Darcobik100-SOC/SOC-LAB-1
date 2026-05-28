@@ -50,5 +50,6 @@ Dentro de VirtualBox utilizaremos 2 tipos de redes:
 Todo esto lo tome como base del del repositorio creado por .[Berkeross](https://github.com/Berkeross/Lab-SOC-Elastic)
 
 ---
-
+Aprendermos Tambien sobre AWS por medio de una plataforma open source ###Floci
 ## Identificar FP y PF usando Atomic Red Team y Elastic
+
